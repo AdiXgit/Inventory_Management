@@ -50,7 +50,7 @@ void updateP(Product *p,int numproducts)
             printf("Enter the product details\n");
             printf("Enter the product id\n");
             scanf("%d",&p[i].productid);
-            print("Enter the product name\n");
+            printf("Enter the product name\n");
             scanf("%s",p[i].productname);
             printf("Enter the product price\n");
             scanf("%f",&p[i].productprice);
