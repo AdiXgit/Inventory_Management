@@ -1,6 +1,3 @@
-Sure, here is the code for the README file based on the information gathered:
-
-```markdown
 # Inventory_Management
 
 This repository contains an inventory management system implemented in C.
